@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
-    "minecraftVersion": "latest",
-    "fabricLoaderVersion": "latest",
+    "minecraftVersion": "26.2",
+    "fabricLoaderVersion": "0.19.3",
     "modpackVersion": "1.0.0",
     "mods": []
 }
