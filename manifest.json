@@ -5,7 +5,7 @@
     "modpackVersion": "1.0.0",
     "mods": [
         {
-            "name": "Sodium",
+            "name": "ModMenu",
             "fileName": "modmenu-20.0.1.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/modmenu-20.0.1.jar",
             "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
