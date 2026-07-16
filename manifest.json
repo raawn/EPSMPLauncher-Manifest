@@ -15,6 +15,12 @@
             "fileName": "espaceplaisiraddon-0.1.0-alpha.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-0.1.0-alpha.jar",
             "sha256": "e573ae23769f6ee0d78d915ecdd49d294f9a3e3992cccc091f84f66debaf2e01"
+        },
+        {
+            "name": "FabricAPI",
+            "fileName": "fabric-api-0.155.0+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fabric-api-0.155.0+26.2.jar",
+            "sha256": "e955049dad4c024a516a570a9b793f5842eb35c977632602c23d74424a369869"
         }
     ]
 }
