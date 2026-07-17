@@ -17,3 +17,19 @@ Remote mod/version manifest for [EspacePlaisir Launcher](https://github.com/raaw
 See [manifest.json](manifest.json) for the current schema, and
 [EPSMP-Launcher/docs/modmanifest.md](https://github.com/raawn/EPSMP-Launcher/blob/main/docs/modmanifest.md)
 for how the launcher consumes this file.
+
+## Force-removing a mod immediately
+
+[removals.json](removals.json) is a second, independent list: any file name
+in it gets deleted from every launcher's `mods/` folder on next launch,
+regardless of whether `manifest.json` still references it. Use this to pull
+a broken/incompatible/banned mod right away without needing to also touch
+`manifest.json`.
+
+```json
+{
+    "mods": ["some-old-mod-1.2.3.jar"]
+}
+```
+
+Commit and push -- no launcher rebuild required, same as `manifest.json`.
