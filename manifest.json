@@ -1,8 +1,8 @@
 {
-    "manifestVersion": 2,
+    "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.0.1",
+    "modpackVersion": "1.0.2",
     "mods": [
         {
             "name": "ModMenu",
