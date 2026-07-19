@@ -14,7 +14,7 @@
             "name": "EspacePlaisirAddon",
             "fileName": "espaceplaisiraddon-0.1.6-beta.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-0.1.6-beta.jar",
-            "sha256": "C67F3DE5D96DCC17E7165F95BC4AC23CA99C72E20AA4DCFF2E40BF54B9223E08"
+            "sha256": "c67f3de5d96dcc17e7165f95bc4ac23ca99c72e20aa4dcff2e40bf54b9223e08"
         },
         {
             "name": "FabricAPI",
