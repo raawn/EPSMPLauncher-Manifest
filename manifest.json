@@ -12,9 +12,9 @@
         },
         {
             "name": "EspacePlaisirAddon",
-            "fileName": "espaceplaisiraddon-0.1.5-alpha.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-0.1.5-alpha.jar",
-            "sha256": "b5a754fe0e12276f8db42b0e4bf2982c19a92d95f3f801c163590f7da19f19c5"
+            "fileName": "espaceplaisiraddon-0.1.6-beta.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-0.1.6-beta.jar",
+            "sha256": "C67F3DE5D96DCC17E7165F95BC4AC23CA99C72E20AA4DCFF2E40BF54B9223E08"
         },
         {
             "name": "FabricAPI",
