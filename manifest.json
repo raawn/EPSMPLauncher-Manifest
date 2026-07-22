@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.1.1",
+    "modpackVersion": "1.1.2",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -117,12 +117,6 @@
             "fileName": "fusion-1.3.8-fabric-mc26.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fusion-1.3.8-fabric-mc26.2.jar",
             "sha256": "d14b0b6aa314967f5febd3509a95399cd76867b8384b8b5e78d1d64a14a128a2"
-        },
-        {
-            "name": "Held Item Info",
-            "fileName": "held-item-info-1.9.2.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/held-item-info-1.9.2.jar",
-            "sha256": "97f5d5f892daf2d6ec93f76453bd1cc3e2427a8e41ff10ced935071f71da62a7"
         },
         {
             "name": "Iris",
