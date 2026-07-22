@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.3.0",
+    "modpackVersion": "1.4.0",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -291,6 +291,114 @@
             "fileName": "pneumonocore-1.3.1+26.2+A.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/pneumonocore-1.3.1+26.2+A.jar",
             "sha256": "8740f3698563f35ade639a3e98eda22537e259f339abb629803b358d30e55ccd"
+        },
+        {
+            "name": "Clumps",
+            "fileName": "Clumps-fabric-26.2-26.2.1.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/Clumps-fabric-26.2-26.2.1.jar",
+            "sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c"
+        },
+        {
+            "name": "CreativeCore",
+            "fileName": "CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+            "sha256": "8bf79bc2940c4272aa954a561831a36cfc70dfe7c26db16f8daf222e39b9ce77"
+        },
+        {
+            "name": "Easy Anvils",
+            "fileName": "EasyAnvils-v26.2.2-mc26.2.x-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/EasyAnvils-v26.2.2-mc26.2.x-Fabric.jar",
+            "sha256": "a510a87dcbcee5bb2ba62fed71ea31ea91ecf7a711b5e6bf2e1f8dac4aa758f3"
+        },
+        {
+            "name": "Easy Magic",
+            "fileName": "EasyMagic-v26.2.0-mc26.2.x-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/EasyMagic-v26.2.0-mc26.2.x-Fabric.jar",
+            "sha256": "4a71bae0c5665ebcca1228aa2945a8bbcdd9ad819e6e708b24be4250ac26f0b3"
+        },
+        {
+            "name": "Leaves Be Gone",
+            "fileName": "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar",
+            "sha256": "3bce4715249a52e2f7ab75bc14a7e24a6bc5f8f4f0ff4a17e0e3b007ae3bc2e5"
+        },
+        {
+            "name": "Puzzles Lib",
+            "fileName": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+            "sha256": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669"
+        },
+        {
+            "name": "ScalableLux",
+            "fileName": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+            "sha256": "8d76cf27589dcc8e16c34ba0709a9ee2134cfcd60b90862f8cbd204ea9b6c7c8"
+        },
+        {
+            "name": "Visual Workbench",
+            "fileName": "VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
+            "sha256": "550932bc8bcceb9f88daf1e7e57ec7af39a7571da7b6b88120977090eae6c72b"
+        },
+        {
+            "name": "ChatAnimation",
+            "fileName": "chatanimation-fabric-1.3.0+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/chatanimation-fabric-1.3.0+mc26.2.jar",
+            "sha256": "4ca08917c36479c246d9c283ffea75ff8b320e8f72f4b91da8eb9213fdf7b97d"
+        },
+        {
+            "name": "Durability Tooltip",
+            "fileName": "durabilitytooltip-1.1.6-fabric-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/durabilitytooltip-1.1.6-fabric-mc26.2.jar",
+            "sha256": "41d3fdae72d086a1c6cc308db00181b2a9e9840cbf2a862edba3d014907c2728"
+        },
+        {
+            "name": "Just Enough Items",
+            "fileName": "jei-26.2-fabric-30.13.0.80.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/jei-26.2-fabric-30.13.0.80.jar",
+            "sha256": "ec09d174e8edabd7d4a01656c9e191759c2cb31244fb60a958c1034049240494"
+        },
+        {
+            "name": "LambDynamicLights",
+            "fileName": "lambdynamiclights-4.12.2+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/lambdynamiclights-4.12.2+26.2.jar",
+            "sha256": "d46d2ae5f1f0a97ca7ead891706759ed1d959279ebb11df45b71b6b4034a38d7"
+        },
+        {
+            "name": "Lootr",
+            "fileName": "lootr-fabric-26.2-1.24.39.120.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/lootr-fabric-26.2-1.24.39.120.jar",
+            "sha256": "28ae652bd037e2d204d644051777a9f15474f20c10714a99c9f98104f93ce7ac"
+        },
+        {
+            "name": "MRU",
+            "fileName": "mru-1.0.31+26.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/mru-1.0.31+26.2-fabric.jar",
+            "sha256": "57f0769704ef5c51f91a023e7de6d0fc161ed32e64de2f27b6ad5a5c8fc82e76"
+        },
+        {
+            "name": "3d-Skin-Layers",
+            "fileName": "skinlayers3d-fabric-1.11.2-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
+            "sha256": "3b553acd510f3395b00ca1c26b5bb2e990c420a415350aec84d0f4255f3ca0a5"
+        },
+        {
+            "name": "Sound Physics Remastered",
+            "fileName": "sound-physics-remastered-fabric-1.5.1+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/sound-physics-remastered-fabric-1.5.1+26.2.jar",
+            "sha256": "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9"
+        },
+        {
+            "name": "Sounds",
+            "fileName": "sounds-2.5.1+edge+26.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/sounds-2.5.1+edge+26.2-fabric.jar",
+            "sha256": "1d1aa6d959c3ac9b04d675f1452241dc9517e0958dbd759b79f500a50c1b825f"
+        },
+        {
+            "name": "Xaero's World Map",
+            "fileName": "xaeroworldmap-fabric-26.2-1.44.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/xaeroworldmap-fabric-26.2-1.44.2.jar",
+            "sha256": "d55ef45c559ae0adcf66d894c022f61d9d921629b0c885d04aa00424546a2389"
         }
     ]
 }
