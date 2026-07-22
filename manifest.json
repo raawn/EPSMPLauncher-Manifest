@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.1.0",
+    "modpackVersion": "1.1.1",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -129,12 +129,6 @@
             "fileName": "iris-fabric-1.11.2+mc26.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/iris-fabric-1.11.2+mc26.2.jar",
             "sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
-        },
-        {
-            "name": "FurniCraft",
-            "fileName": "ketkets-furnicraft-7.4.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ketkets-furnicraft-7.4.jar",
-            "sha256": "2722546f6dbaf4206eb70507ff4db3606f35ff1e8f95d257a238ce7939e5eb86"
         },
         {
             "name": "Lithium",
