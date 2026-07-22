@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.4.0",
+    "modpackVersion": "1.4.1",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -399,6 +399,12 @@
             "fileName": "xaeroworldmap-fabric-26.2-1.44.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/xaeroworldmap-fabric-26.2-1.44.2.jar",
             "sha256": "d55ef45c559ae0adcf66d894c022f61d9d921629b0c885d04aa00424546a2389"
+        },
+        {
+            "name": "YetAnotherConfigLib",
+            "fileName": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+            "sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f"
         }
     ]
 }
