@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.1.2",
+    "modpackVersion": "1.2.0",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -267,6 +267,18 @@
             "fileName": "waystones-fabric-26.2-26.2.0.5.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/waystones-fabric-26.2-26.2.0.5.jar",
             "sha256": "18b5e39cb39a84196505172ad5a8316c93886357fd3e6c7327e2a01c7f95f48f"
+        },
+        {
+            "name": "Gravestones",
+            "fileName": "gravestones-1.4.1+26.2+A.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/gravestones-1.4.1+26.2+A.jar",
+            "sha256": "56aeb9fdfc520083954299bbedbb9683630c538938338d2d9719e888cd74d8f4"
+        },
+        {
+            "name": "Traveler's Backpack",
+            "fileName": "travelersbackpack-fabric-26.2-11.3.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/travelersbackpack-fabric-26.2-11.3.0.jar",
+            "sha256": "045977a70ae1d4dd560c9046b493b9ea27453543d739943620414afc0ca26f7d"
         }
     ]
 }
