@@ -2,25 +2,283 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.0.2",
+    "modpackVersion": "1.1.0",
     "mods": [
         {
-            "name": "ModMenu",
+            "name": "BadOptimizations",
+            "fileName": "BadOptimizations-2.4.1-26.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/BadOptimizations-2.4.1-26.2-fabric.jar",
+            "sha256": "06cee46d81d3a0afb8e993dfbe4b990a3be92f52abde3590cc396490cb6eb4d2"
+        },
+        {
+            "name": "CoreLib",
+            "fileName": "CoreLib-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/CoreLib-1.1.1.jar",
+            "sha256": "0d40bf7b1ded6e8119fe8d7cf58c5011fbedd85db10f2dadbad89fa114d5db2d"
+        },
+        {
+            "name": "Explorer's Compass",
+            "fileName": "ExplorersCompass-26.2-2.5.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ExplorersCompass-26.2-2.5.1-fabric.jar",
+            "sha256": "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74"
+        },
+        {
+            "name": "ImmediatelyFast",
+            "fileName": "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+            "sha256": "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770"
+        },
+        {
+            "name": "Nature's Compass",
+            "fileName": "NaturesCompass-26.2-2.5.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/NaturesCompass-26.2-2.5.1-fabric.jar",
+            "sha256": "f7cdaffdbd2904f5e59d53b1f3631193b6f800e1e78722612c0de1eed8821965"
+        },
+        {
+            "name": "No Chat Reports",
+            "fileName": "NoChatReports-FABRIC-26.2-v2.20.1.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/NoChatReports-FABRIC-26.2-v2.20.1.jar",
+            "sha256": "754cce1e99913eb3fe7aded5012cb23a33c84fab4aee0f840bad34785f581e27"
+        },
+        {
+            "name": "AppleSkin",
+            "fileName": "appleskin-fabric-mc26.2-3.0.10.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/appleskin-fabric-mc26.2-3.0.10.jar",
+            "sha256": "e92f4d28973aec7ba9dbbfa74d163a1fadab0288fb3482247eb443cf03aa2178"
+        },
+        {
+            "name": "Balm",
+            "fileName": "balm-fabric-26.2-26.2.0.4.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/balm-fabric-26.2-26.2.0.4.jar",
+            "sha256": "c2fd56747dfdc7984dbf95281dca9e0947e19459ed9713ad9a405fde8d5e4337"
+        },
+        {
+            "name": "Better Statistics Screen",
+            "fileName": "betterstats-5.5.3+fn-26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/betterstats-5.5.3+fn-26.2.jar",
+            "sha256": "23a7f8f1ef118104072c9fb191af62ca1a3677eeb0f429ce01ea164eb351f439"
+        },
+        {
+            "name": "Cloth Config v26.2",
+            "fileName": "cloth-config-26.2.155.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/cloth-config-26.2.155.jar",
+            "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
+        },
+        {
+            "name": "Cubes Without Borders",
+            "fileName": "cwb-4.1.0+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/cwb-4.1.0+26.2.jar",
+            "sha256": "3123c15a5840e2bc5f44a5cc1b4785f75e96bdb903fd5dc901d10e08e53faaaa"
+        },
+        {
+            "name": "Dark Loading Screen",
+            "fileName": "dark-loading-screen-1.6.19.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/dark-loading-screen-1.6.19.jar",
+            "sha256": "225ba48114a224f5aee79e47252b72090eaafe75df268ceb7fe0fb03be6129f6"
+        },
+        {
+            "name": "EntityCulling",
+            "fileName": "entityculling-fabric-1.10.5-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/entityculling-fabric-1.10.5-mc26.2.jar",
+            "sha256": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a"
+        },
+        {
+            "name": "EspacePlaisir Addon",
+            "fileName": "espaceplaisiraddon-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-1.0.0.jar",
+            "sha256": "dc0261a2adfa9601ad0201a024ab3cd714a3d902d9457b3e6ef591b329566e22"
+        },
+        {
+            "name": "EspacePlaisir Upgrade",
+            "fileName": "espaceplaisirupgrade-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisirupgrade-1.0.0.jar",
+            "sha256": "b9eed6f132a0e8d8f06726cf5d872755f3795fbef8152d6491c858d3be5e5153"
+        },
+        {
+            "name": "Fabric API",
+            "fileName": "fabric-api-0.155.2+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fabric-api-0.155.2+26.2.jar",
+            "sha256": "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8"
+        },
+        {
+            "name": "Fast IP Ping",
+            "fileName": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fast-ip-ping-v1.0.11-mc26.1.2.jar",
+            "sha256": "25db49898876554cb1ef5f2e6c514890fa2a82d1c0fbccfe41b7f08b0b65a19c"
+        },
+        {
+            "name": "FerriteCore",
+            "fileName": "ferritecore-9.0.0-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ferritecore-9.0.0-fabric.jar",
+            "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+        },
+        {
+            "name": "Fusion",
+            "fileName": "fusion-1.3.8-fabric-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fusion-1.3.8-fabric-mc26.2.jar",
+            "sha256": "d14b0b6aa314967f5febd3509a95399cd76867b8384b8b5e78d1d64a14a128a2"
+        },
+        {
+            "name": "Held Item Info",
+            "fileName": "held-item-info-1.9.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/held-item-info-1.9.2.jar",
+            "sha256": "97f5d5f892daf2d6ec93f76453bd1cc3e2427a8e41ff10ced935071f71da62a7"
+        },
+        {
+            "name": "Iris",
+            "fileName": "iris-fabric-1.11.2+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/iris-fabric-1.11.2+mc26.2.jar",
+            "sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
+        },
+        {
+            "name": "FurniCraft",
+            "fileName": "ketkets-furnicraft-7.4.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/ketkets-furnicraft-7.4.jar",
+            "sha256": "2722546f6dbaf4206eb70507ff4db3606f35ff1e8f95d257a238ce7939e5eb86"
+        },
+        {
+            "name": "Lithium",
+            "fileName": "lithium-fabric-0.25.2+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/lithium-fabric-0.25.2+mc26.2.jar",
+            "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f"
+        },
+        {
+            "name": "MaLiLib",
+            "fileName": "malilib-fabric-26.2-0.29.3.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/malilib-fabric-26.2-0.29.3.jar",
+            "sha256": "5b95edce341d74351e656e35bdb51e9716596b86575d3d3d3cbf60b0940c207e"
+        },
+        {
+            "name": "Macaw's Furniture",
+            "fileName": "mcw-furniture-3.4.2-mc26.2fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/mcw-furniture-3.4.2-mc26.2fabric.jar",
+            "sha256": "0bc76491e4219c60089f6e8ef0b69d7c9593385dd3b7f39e6eb231f8a71b97df"
+        },
+        {
+            "name": "MiniHUD",
+            "fileName": "minihud-fabric-26.2-0.40.4.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/minihud-fabric-26.2-0.40.4.jar",
+            "sha256": "34b2fe0689646f236793ea79b550e783e074e8a65d986ba39745d28ce24edbee"
+        },
+        {
+            "name": "Mod Menu",
             "fileName": "modmenu-20.0.1.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/modmenu-20.0.1.jar",
             "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
         },
         {
-            "name": "EspacePlaisirAddon",
-            "fileName": "espaceplaisiraddon-0.1.6-beta.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-0.1.6-beta.jar",
-            "sha256": "c67f3de5d96dcc17e7165f95bc4ac23ca99c72e20aa4dcff2e40bf54b9223e08"
+            "name": "More Armor Trims",
+            "fileName": "more-armor-trims-1.5.3-26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/more-armor-trims-1.5.3-26.2.jar",
+            "sha256": "2506d16aaf98e5cdb889ba5f133b49ee39143431667eb211b01fb3a139acb512"
         },
         {
-            "name": "FabricAPI",
-            "fileName": "fabric-api-0.155.0+26.2.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fabric-api-0.155.0+26.2.jar",
-            "sha256": "e955049dad4c024a516a570a9b793f5842eb35c977632602c23d74424a369869"
+            "name": "More Culling",
+            "fileName": "moreculling-fabric-26.2-1.8.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/moreculling-fabric-26.2-1.8.0.jar",
+            "sha256": "a83784d07ed36efb1643a68b31c6b836afd46398f54c5b8e1c382741a09fb28a"
+        },
+        {
+            "name": "Placeholder API",
+            "fileName": "placeholder-api-3.1.0-beta.1+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+            "sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e"
+        },
+        {
+            "name": "PolyDecorations",
+            "fileName": "polydecorations-0.12.0+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/polydecorations-0.12.0+26.2.jar",
+            "sha256": "3a656ce5b2f773a7fad4227b457462bea8aa53f4842c92673eb3bcc2f4b8493a"
+        },
+        {
+            "name": "Polymer",
+            "fileName": "polymer-bundled-0.17.3+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/polymer-bundled-0.17.3+26.2.jar",
+            "sha256": "3f62249054e27994d4fa79ba8e64fff8c54d40ef7f2b866462c12b73f2200e22"
+        },
+        {
+            "name": "Rechiseled",
+            "fileName": "rechiseled-1.2.5-fabric-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/rechiseled-1.2.5-fabric-mc26.2.jar",
+            "sha256": "f1c192a03b3b66490e74e7740ead82e48a82c53b07a9462001885cbc0b5d1f7c"
+        },
+        {
+            "name": "Reese's Sodium Options",
+            "fileName": "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+            "sha256": "49b68a887f5691b805efbe73c4e6e622cda5c322431ef68f81c8953de4041911"
+        },
+        {
+            "name": "Shogi",
+            "fileName": "shogi-fabric-26.2-26.2.0.3.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/shogi-fabric-26.2-26.2.0.3.jar",
+            "sha256": "bbfb5dba66e8733836203f5b70ce48b1225f0664dbacb1bba75421e2f85eaece"
+        },
+        {
+            "name": "Shulker Box Tooltip",
+            "fileName": "shulkerboxtooltip-fabric-5.4.0+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/shulkerboxtooltip-fabric-5.4.0+26.2.jar",
+            "sha256": "f5c1e570e22511a40a762ef68642c9ae57ec8a85fcf9ea309f05622904eda36d"
+        },
+        {
+            "name": "Smooth Swapping",
+            "fileName": "smoothswapping-0.9.10-26.2-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/smoothswapping-0.9.10-26.2-fabric.jar",
+            "sha256": "ef1476040de1c587b7d7000c3316ba87cee718e6a1595dc7aab669a0f146a579"
+        },
+        {
+            "name": "Sodium Extra",
+            "fileName": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/sodium-extra-fabric-0.9.3+mc26.2.jar",
+            "sha256": "cdef04ad810aeeefab4bfefbc7bc4859b06a2be651d5dab7e055f7e661f84a50"
+        },
+        {
+            "name": "Sodium",
+            "fileName": "sodium-fabric-0.9.1+mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/sodium-fabric-0.9.1+mc26.2.jar",
+            "sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+        },
+        {
+            "name": "spark",
+            "fileName": "spark-1.10.173-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/spark-1.10.173-fabric.jar",
+            "sha256": "076ed2288db2a05ca6e8061615e1a31d1912cf1b10665e4f09a1794d5db99433"
+        },
+        {
+            "name": "Status Effect Bars",
+            "fileName": "status-effect-bars-1.0.12.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/status-effect-bars-1.0.12.jar",
+            "sha256": "8cb64d13fb73ae1dff415734b980bca0f858311ffa010c8a21522113a9dddee5"
+        },
+        {
+            "name": "SuperMartijn642's Config Library",
+            "fileName": "supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/supermartijn642configlib-1.1.8-fabric-mc26.2.jar",
+            "sha256": "3546d8d49ac587aa3aed70b0cd68461366a6f78b9575b8f7ba757866905aca6f"
+        },
+        {
+            "name": "SuperMartijn642's Core Lib",
+            "fileName": "supermartijn642corelib-1.1.21b-fabric-mc26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/supermartijn642corelib-1.1.21b-fabric-mc26.2.jar",
+            "sha256": "526cd3315a91d02c2a7ad6de6cfcf8660af7c28329f9bca2522868c3b804c0e3"
+        },
+        {
+            "name": "TCDCommons API",
+            "fileName": "tcdcommons-5.5.3+fn-26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/tcdcommons-5.5.3+fn-26.2.jar",
+            "sha256": "69924aaff68927bc64b1590205b1273039f0f8ad458236ecd98b588a8b49e80c"
+        },
+        {
+            "name": "Too Many Paintings!",
+            "fileName": "toomanypaintings-26.03.29+26.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/toomanypaintings-26.03.29+26.1-fabric.jar",
+            "sha256": "7a58511ba8a1e066f70c36670e36495b46bf935a2d399ba30e4a2df9a482daa7"
+        },
+        {
+            "name": "Waystones",
+            "fileName": "waystones-fabric-26.2-26.2.0.5.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/waystones-fabric-26.2-26.2.0.5.jar",
+            "sha256": "18b5e39cb39a84196505172ad5a8316c93886357fd3e6c7327e2a01c7f95f48f"
         }
     ]
 }
