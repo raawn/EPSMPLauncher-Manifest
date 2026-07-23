@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.0",
+    "modpackVersion": "1.5.1",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -447,6 +447,12 @@
             "fileName": "voicechat-fabric-2.6.21+26.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/voicechat-fabric-2.6.21+26.2.jar",
             "sha256": "ed5fa1a117fa26bfbc8463c27f88a8dffc53da277781f266ed1112281f7f65f7"
+        },
+        {
+            "name": "Voice Chat Interaction",
+            "fileName": "vcinteraction-fabric-1.0.8+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/vcinteraction-fabric-1.0.8+26.2.jar",
+            "sha256": "ca24d70a7700a59007b408da5e8a1be8a9bc81a15d09b7a947b82f2bc7b768e2"
         }
     ]
 }
