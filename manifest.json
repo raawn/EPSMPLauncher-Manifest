@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.4.2",
+    "modpackVersion": "1.5.0",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -411,6 +411,42 @@
             "fileName": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
             "sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f"
+        },
+        {
+            "name": "BiomesOPlenty",
+            "fileName": "BiomesOPlenty-fabric-26.2-26.2.0.0.26.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/BiomesOPlenty-fabric-26.2-26.2.0.0.26.jar",
+            "sha256": "fb5cad1bb5e0ae12e5413cba22288e0a052d701a0301800058e9125bb179e97f"
+        },
+        {
+            "name": "GlitchCore",
+            "fileName": "GlitchCore-fabric-26.2-26.2.0.0.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/GlitchCore-fabric-26.2-26.2.0.0.0.jar",
+            "sha256": "f6c31bd291d1d19322dd0a7ec344df2c88e2d516d1985f09ffe50ef33a34afdc"
+        },
+        {
+            "name": "TerraBlender",
+            "fileName": "TerraBlender-fabric-26.2-26.2.0.0.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/TerraBlender-fabric-26.2-26.2.0.0.2.jar",
+            "sha256": "e4c54e7490cf6716ccc287f5ef674562666a13c6a4afabdc344d5cb62e9cb584"
+        },
+        {
+            "name": "Terralith",
+            "fileName": "Terralith_26.2_v2.6.4.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/Terralith_26.2_v2.6.4.jar",
+            "sha256": "d867c6f348e869c19e8a5979e9dd2c46ed058c1edb47090f6863c32cce484917"
+        },
+        {
+            "name": "Lithostitched",
+            "fileName": "lithostitched-1.7.13-fabric-26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/lithostitched-1.7.13-fabric-26.2.jar",
+            "sha256": "a159ec68946521ca07d6d341c143033ee693bc32c34673c953b529e4ab9971d3"
+        },
+        {
+            "name": "Simple Voice Chat",
+            "fileName": "voicechat-fabric-2.6.21+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/voicechat-fabric-2.6.21+26.2.jar",
+            "sha256": "ed5fa1a117fa26bfbc8463c27f88a8dffc53da277781f266ed1112281f7f65f7"
         }
     ]
 }
