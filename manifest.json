@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.2",
+    "modpackVersion": "1.5.3",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -453,6 +453,12 @@
             "fileName": "vcinteraction-fabric-1.0.8+26.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/vcinteraction-fabric-1.0.8+26.2.jar",
             "sha256": "ca24d70a7700a59007b408da5e8a1be8a9bc81a15d09b7a947b82f2bc7b768e2"
+        },
+        {
+            "name": "Continuity",
+            "fileName": "continuity-3.0.1+26.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/continuity-3.0.1+26.2.jar",
+            "sha256": "2094a52b98e247f664ef2ecdbb41d7dcad7779cc7a8fb87f0ed8a4f8196c0446"
         }
     ]
 }
