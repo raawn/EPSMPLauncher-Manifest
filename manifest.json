@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.4.1",
+    "modpackVersion": "1.4.2",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -326,7 +326,7 @@
             "name": "No Telemetry",
             "fileName": "no-telemetry-1.10.0.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/no-telemetry-1.10.0.jar",
-            "sha256": "3bce4715249a52e2f7ab75bc14a7e24a6bc5f8f4f0ff4a17e0e3b007ae3bc2e5"
+            "sha256": "8e9086fefd2ef7d65d31946a91b9414a23cd1b777bbab08855039b130f0b8b2c"
         },
         {
             "name": "Puzzles Lib",
