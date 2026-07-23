@@ -323,6 +323,12 @@
             "sha256": "3bce4715249a52e2f7ab75bc14a7e24a6bc5f8f4f0ff4a17e0e3b007ae3bc2e5"
         },
         {
+            "name": "No Telemetry",
+            "fileName": "no-telemetry-1.10.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/no-telemetry-1.10.0.jar",
+            "sha256": "3bce4715249a52e2f7ab75bc14a7e24a6bc5f8f4f0ff4a17e0e3b007ae3bc2e5"
+        },
+        {
             "name": "Puzzles Lib",
             "fileName": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
