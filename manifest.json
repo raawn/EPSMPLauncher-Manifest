@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.1",
+    "modpackVersion": "1.5.2",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -84,9 +84,9 @@
         },
         {
             "name": "EspacePlaisir Addon",
-            "fileName": "espaceplaisiraddon-1.0.0.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-1.0.0.jar",
-            "sha256": "dc0261a2adfa9601ad0201a024ab3cd714a3d902d9457b3e6ef591b329566e22"
+            "fileName": "espaceplaisiraddon-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisiraddon-1.1.0.jar",
+            "sha256": "3412f0b8873af5645a27cd39c8008df37abac9adaeb5a6a8bccfbf869c47c224"
         },
         {
             "name": "EspacePlaisir Upgrade",
