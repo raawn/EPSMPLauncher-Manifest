@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.3",
+    "modpackVersion": "1.5.4",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -452,7 +452,7 @@
             "name": "Litematica",
             "fileName": "litematica-fabric-26.2-0.28.4.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/litematica-fabric-26.2-0.28.4.jar",
-            "sha256": "ca24d70a7700a59007b408da5e8a1be8a9bc81a15d09b7a947b82f2bc7b768e2"
+            "sha256": "268fa149cc493ac997d7c8ec3dc3a232d90797d5251dbe19909e7a54cd529ee3"
         },
         {
             "name": "Voice Chat Interaction",
