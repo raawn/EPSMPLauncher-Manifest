@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.4",
+    "modpackVersion": "1.5.5",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -90,9 +90,9 @@
         },
         {
             "name": "EspacePlaisir Upgrade",
-            "fileName": "espaceplaisirupgrade-1.0.0.jar",
-            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisirupgrade-1.0.0.jar",
-            "sha256": "b9eed6f132a0e8d8f06726cf5d872755f3795fbef8152d6491c858d3be5e5153"
+            "fileName": "espaceplaisirupgrade-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/espaceplaisirupgrade-1.1.0.jar",
+            "sha256": "c83fb06a9bbe755e1ba91634a5a4d884410a7b2ea7c4a818339ef35df23159ac"
         },
         {
             "name": "Fabric API",
