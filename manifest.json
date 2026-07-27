@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.5",
+    "modpackVersion": "1.5.6",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -465,6 +465,12 @@
             "fileName": "continuity-3.0.1+26.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/continuity-3.0.1+26.2.jar",
             "sha256": "2094a52b98e247f664ef2ecdbb41d7dcad7779cc7a8fb87f0ed8a4f8196c0446"
+        },
+        {
+            "name": "Xaero's Minimap",
+            "fileName": "xaerominimap-fabric-26.2-26.4.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/xaerominimap-fabric-26.2-26.4.2.jar",
+            "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048"
         }
     ]
 }
