@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.7",
+    "modpackVersion": "1.6.0",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -477,6 +477,18 @@
             "fileName": "InventoryProfilesNext-fabric-26.2-2.3.5.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
             "sha256": "944050449874618559007a008e6ce90313d325882b9ef24ba80c8ad944a9007c"
+        },
+        {
+            "name": "Fabric Language Kotlin",
+            "fileName": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+            "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52"
+        },
+        {
+            "name": "libIPN",
+            "fileName": "libIPN-fabric-26.2-6.8.2.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/libIPN-fabric-26.2-6.8.2.jar",
+            "sha256": "21497d8053d41ce4cc154327f392634e1337e23773bbbb88a9ff69da244448be"
         }
     ]
 }
