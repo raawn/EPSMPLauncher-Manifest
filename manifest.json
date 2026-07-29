@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "minecraftVersion": "26.2",
     "fabricLoaderVersion": "0.19.3",
-    "modpackVersion": "1.5.6",
+    "modpackVersion": "1.5.7",
     "mods": [
         {
             "name": "BadOptimizations",
@@ -471,6 +471,12 @@
             "fileName": "xaerominimap-fabric-26.2-26.4.2.jar",
             "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/xaerominimap-fabric-26.2-26.4.2.jar",
             "sha256": "69284892d2eb853c9aefa85a4c9b74232c322da00207994c67ab8aeed8a64048"
+        },
+        {
+            "name": "Inventory Profiles Next",
+            "fileName": "InventoryProfilesNext-fabric-26.2-2.3.5.jar",
+            "url": "https://raw.githubusercontent.com/raawn/EPSMPLauncher-Manifest/main/mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
+            "sha256": "944050449874618559007a008e6ce90313d325882b9ef24ba80c8ad944a9007c"
         }
     ]
 }
